@@ -6,7 +6,7 @@
 
 ![](2022-01-08-13-33-18.png)
 
-![Getting Started](./5C05FDE8-D8F3-4968-B1C5-1530A86E2E6F_1_105_c.jpeg)
+![Getting Started](images/5C05FDE8-D8F3-4968-B1C5-1530A86E2E6F_1_105_c.jpeg)
 
 #Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
